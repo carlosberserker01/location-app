@@ -8,7 +8,7 @@ Aplicación desarrollada con **React Native (Expo + TypeScript)** que registra u
 
 - 📍 Obtiene la ubicación actual del dispositivo
 - 💾 Guarda las coordenadas, fecha y código postal en almacenamiento local (con AsyncStorage)
-- 🗒️ Lista las ubicaciones guardadas por fecha (de la más reciente a la mas antigüa)
+- 🗒️ Lista las ubicaciones guardadas por fecha (de la más reciente a la más antigüa)
 
 ---
 
@@ -16,7 +16,7 @@ Aplicación desarrollada con **React Native (Expo + TypeScript)** que registra u
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/location-tracker-app.git
+git clone https://github.com/carlosberserker01/location-app.git
 cd location-tracker-app
 
 # Instala dependencias
