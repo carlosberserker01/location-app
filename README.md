@@ -17,10 +17,12 @@ Aplicación desarrollada con **React Native (Expo + TypeScript)** que registra u
 ```bash
 # Clonar el repositorio
 git clone https://github.com/carlosberserker01/location-app.git
-cd location-tracker-app
 
-# Instala dependencias
-npm i
+# Acceder a la carpeta del repositorio
+cd location-app
+
+# Instalar dependencias
+npm install
 ```
 
 ## 📱 Correr el proyecto localmente
